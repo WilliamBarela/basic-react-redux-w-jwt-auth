@@ -40,6 +40,9 @@ If this repo helps you out, please star it and follow me on Github!
 Thanks,
 William
 
+P.S: If you are interested in seeing how I implemented this, please have a look at the [Git Log](https://github.com/WilliamBarela/zentzu-frontend/commits/19d6ca822e79fe611e36142c1fce3ee5808fd8d7) of the repo where I first implemented this.
+I did refactor it quite a bit to make it easier to understand.
+
 # create-react-app boilerplate:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
