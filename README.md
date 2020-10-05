@@ -43,6 +43,8 @@ William
 P.S: If you are interested in seeing how I implemented this, please have a look at the [Git Log](https://github.com/WilliamBarela/zentzu-frontend/commits/19d6ca822e79fe611e36142c1fce3ee5808fd8d7) of the repo where I first implemented this.
 I did refactor it quite a bit to make it easier to understand.
 
+Also, if you would like to see the implementation of the server which would serve the JWT token, have a look at [this repo at this commit](https://github.com/WilliamBarela/zentzu-backend/tree/b7754c1c19953d32c5ae6b73c8019b8eda02600c).
+
 # create-react-app boilerplate:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
